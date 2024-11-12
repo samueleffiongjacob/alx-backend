@@ -8,7 +8,7 @@ This project contains tasks for learning to create internationalized web pages w
 [Flask i18n tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n)
 [pytz](https://pypi.org/project/pytz/)
 
-***activat python evinorment***
+***Activate python evinorment***
 
 ```bash
 # python venv
